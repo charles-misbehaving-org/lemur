@@ -359,7 +359,7 @@ typing-extensions==4.11.0
     #   python-json-logger
 tzdata==2024.1
     # via celery
-urllib3==1.26.18
+urllib3==2.6.0
     # via
     #   botocore
     #   requests
