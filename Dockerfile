@@ -1,4 +1,4 @@
-FROM python:3.8
+FROM python:3.14.2
 RUN apt-get update
 RUN apt-get install -y make software-properties-common curl
 RUN curl -sL https://deb.nodesource.com/setup_18.x | bash -
